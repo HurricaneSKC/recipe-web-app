@@ -22,4 +22,10 @@ To run on local server
 npm start
 ```
 
+# Future considerations
 
+- add input to images & media files for demos
+- adapt for responsive view
+- create servings / quanities variable
+- add in user comments sections
+- add in ratings sections

@@ -20,7 +20,7 @@ class App extends React.Component {
     return (
       <div className="recipe-container">
         <div className="menu">
-          <Header loadData={this.loadData} tagline="Click Me and slide to choose your recipe" />
+          <Header loadData={this.loadData} tagline="Tap Me and slide to choose your recipe" />
           <div className="slider">
             <ul className="slides">
               {Object.keys(this.state.recipes).map(key => <Recipe key={key} details={this.state.recipes[key]} />)}

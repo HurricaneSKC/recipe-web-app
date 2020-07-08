@@ -6,6 +6,12 @@ Basic App that can reads in recipe data and displays recipes in a slider
 
 clone ```https://github.com/HurricaneSKC/recipe-web-app.git```
 
+Move to recipe-app directory
+```
+cd recipe-app
+```
+
+install dependencies
 ```
 npm install
 ```

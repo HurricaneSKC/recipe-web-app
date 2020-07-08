@@ -39,7 +39,7 @@ class AddRecipeCard extends React.Component {
         <input name='name' ref={this.nameRef} type='text' placeholder='name' />
         <input name='url' ref={this.urlRef} type='text' placeholder='url' />
         <input name='source_url' ref={this.source_urlRef} type='text' placeholder='source_url' />
-        <button type="submit">Add a Recipe</button>
+        <button type="submit">Add your Recipe</button>
       </form>
     )
   }

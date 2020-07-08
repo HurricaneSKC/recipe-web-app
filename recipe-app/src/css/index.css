@@ -367,3 +367,9 @@ form>input {
 form>textarea {
   margin: 5px;
 }
+
+button {
+  margin: 5px;
+  background-color: #000;
+  color: #eee;
+}
